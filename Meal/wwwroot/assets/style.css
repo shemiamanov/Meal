@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text1{
+    text-align: center;
+    padding-top: 250px;
+}
+.text1 h1{
+    font-size: 70px;
+    color:white;
+}
+.text1 .btn1{
+    font-size: 35px;
+    margin-top: 20px;
+   border-radius: 9px;
+}
+
+.about{
+    width: 100%;
+    height: 120vh;
+    background-color: white;
+}
+.text2{
+    text-align: center;
+    padding-top: 150px;
+}
+.text2 h2{
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text2 p{
+    font-size: 25px;
+}
+.restorant{
+    height: 100vh;
+    width: 100%;
+    background-color: brown;
+}
+.menu{
+    width: 100%;
+    height: 100vh;
+    background-color:white;
+}
+.service{
+    width: 100%;
+    height: 100vh;
+}
